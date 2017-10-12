@@ -1,5 +1,3 @@
-
-
 instrucciones = """
 	Inicializar repositorio: 
 	git init
